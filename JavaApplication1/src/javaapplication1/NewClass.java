@@ -11,4 +11,9 @@ package javaapplication1;
  */
 public class NewClass {
     
+    
+    public NewClass( ){
+        
+        System.err.println( "Some Changes" );
+    }
 }
