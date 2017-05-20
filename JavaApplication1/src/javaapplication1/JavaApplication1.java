@@ -20,6 +20,7 @@ public class JavaApplication1 {
         System.err.println( "Goodbye world" );
         System.err.println( "Another world" );
         System.err.println( "Goodbye" );
+        System.err.println( "Hello World" );
     }
     
 }
