@@ -21,6 +21,7 @@ public class JavaApplication1 {
         System.err.println( "Another world" );
         System.err.println( "Goodbye" );
         System.err.println( "Hello World" );
+        System.err.println( "Another world" );
     }
     
 }
