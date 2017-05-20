@@ -25,6 +25,7 @@ public class JavaApplication1 {
         System.err.println( "Hello from the other side" );
         System.err.println( "Coolio" );
         System.err.println( "Hello" );
+        System.err.println( "Goodbye" );
     }
     
 }
