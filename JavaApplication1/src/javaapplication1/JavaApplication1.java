@@ -18,6 +18,7 @@ public class JavaApplication1 {
         
         System.err.println( "Hello World");
         System.err.println( "Goodbye world" );
+        System.err.println( "Another world" );
     }
     
 }
