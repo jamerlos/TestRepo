@@ -15,5 +15,8 @@ public class NewClass {
     public NewClass( ){
         
         System.err.println( "Some Changes" );
+        System.err.println( "Some Changes" );
+        System.err.println( "Some Changes" );
+        System.err.println( "Some Changes" );
     }
 }
