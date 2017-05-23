@@ -7,13 +7,8 @@ package javaapplication1;
 
 /**
  *
- * @author Juan
+ * @author jmerlos
  */
-public class NewClass {
+public class NewClass1 {
     
-    
-    public NewClass( ){
-
-        System.err.println( "Hello from the other side" );
-    }
 }

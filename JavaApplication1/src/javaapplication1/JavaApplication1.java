@@ -34,6 +34,9 @@ public class JavaApplication1 {
         System.err.println( "Hello from the other sidef" );
         System.err.println( "Hello from the other sidef" );
         System.err.println( "Hello from the other sidef" );
+        System.err.println( "Hello from the other sidef" );
+        System.err.println( "Hello from the other sidef" );
+        System.err.println( "Hello from the other sidef" );
     }
     
 }
