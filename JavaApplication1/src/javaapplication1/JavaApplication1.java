@@ -26,6 +26,8 @@ public class JavaApplication1 {
         System.err.println( "Coolio" );
         System.err.println( "Hello" );
         System.err.println( "Goodbye" );
+        System.err.println( "Hello" );
+        System.err.println( "Goodbye" );
         System.err.println( "Hello from the other sidef" );
         System.err.println( "Hello from the other sidef" );
         System.err.println( "Hello from the other sidef" );
